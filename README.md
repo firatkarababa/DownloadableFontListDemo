@@ -8,3 +8,4 @@ When one of the variants is selected from the third screen the fourth screen whi
 
 ![alt text](https://cdn-images-1.medium.com/max/600/1*0LKqvDPGHJomNnodSS_daQ.gif)
 
+The article which explains Downloadable Font List Library and Downloadable Fon List Demo can be found [here](https://medium.com/@firatkarababa/retrieve-available-downloadable-font-list-for-android-downloadable-font-list-library-731f8d6a7281)
