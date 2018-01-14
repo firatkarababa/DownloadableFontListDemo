@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DownloadableFontListDemo</string>
+    <string name="title_activity_variant_list">VariantListActivity</string>
+    <string name="title_activity_show_text_with_font">ShowTextWithFontActivity</string>
+    <string name="text_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="request_failed">Font Download Request Failed</string>
+    <string name="select_font_family">Select Font family from the family list</string>
+    <string name="select_font_variant">Select Font variant from the variant list</string>
+</resources>
